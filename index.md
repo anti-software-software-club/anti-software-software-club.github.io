@@ -5,7 +5,7 @@ navTitle: home
 
 # anti software software club
 
-ANTI SOFTWARE SOFTWARE CLUB is a non-profit software company that hates the software industry. they're working on something. wait for it.
+ANTI SOFTWARE SOFTWARE CLUB is a non-profit software company that hates the software industry. we're working on something. wait for it.
 
 [also we're on twitter][twitter]
 
