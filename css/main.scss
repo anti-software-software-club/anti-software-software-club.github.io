@@ -1,0 +1,47 @@
+---
+hideNav: true
+---
+
+$black: #150320;
+$scarlet: #fc2b50;
+$bg: $black;
+$fg: $scarlet;
+* {
+  font-size: 13pt; // font-weight:400;
+}
+table {
+  border-collapse: collapse;
+}
+td {
+  border: 6px double $fg;
+  padding: 10px;
+}
+ol {
+  margin-left: 1em;
+}
+body {
+  font-family: "B612 Mono", monospace;
+  color: $fg;
+  background: $bg;
+  margin: 1em;
+}
+p {
+  max-width: 80ch;
+}
+h1,
+h2 {
+  text-transform: uppercase;
+  font-weight: 700;
+  color: $bg;
+  background: $fg;
+}
+h1 {
+  font-size: 18pt;
+}
+a,
+.advisory {
+  background: $fg;
+  color: $bg;
+  font-weight: 700;
+  // padding-right: 0.25em;
+}

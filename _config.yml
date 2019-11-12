@@ -1,0 +1,12 @@
+# Site settings
+title: "anti software software club"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://antisoftware.club" # the base hostname & protocol for your site
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .bundle/
+markdown: kramdown
